@@ -58,7 +58,6 @@
     "printable_height": "400",
     "printer_notes": "Longer LK5 Pro\nOrbiter v1.5 direct drive extruder",
     "printer_settings_id": "Longer LK5 Pro with Acceleration",
-    "printhost_apikey": "BA9AF08F44DD4AE399A7DD601CDC108B",
     "retract_when_changing_layer": [
         "0"
     ],
